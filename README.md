@@ -24,7 +24,7 @@ No need to install. The page is accessible to use on any browser.
 
 On the page, you are able to create and delete tasks. Red is for overdue tasks, yellow is upcoming, and white is normal time.
    ```md
-![Alt Text](assets/img/screenshot-tasks.png)
+![Alt Text](/img/screenshot-tasks.png)
   ```
 
    
