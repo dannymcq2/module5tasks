@@ -26,8 +26,11 @@ On the page, you are able to create and delete tasks. Red is for overdue tasks, 
 
 
 
- 
-    ![screenshot](Assets/img/screenshot-tasks.png)
+   ```md
+     ![screenshot](Assets/img/screenshot-tasks.png)
+  ```
+
+   
 
 
 
