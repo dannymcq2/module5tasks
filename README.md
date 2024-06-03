@@ -23,13 +23,6 @@ No need to install. The page is accessible to use on any browser.
 ## Usage
 
 On the page, you are able to create and delete tasks. Red is for overdue tasks, yellow is upcoming, and white is normal time.
-
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
    ```md
   ![screenshot](Assets/img/screenshot-tasks.png)
   ```
